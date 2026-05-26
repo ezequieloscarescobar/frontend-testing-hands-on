@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList renders correctly 1`] = `
+<div>
+  <table
+    class="product-table"
+  >
+    <thead>
+      <tr>
+        <th>
+          ID
+        </th>
+        <th>
+          Producto
+        </th>
+        <th>
+          Disponible
+        </th>
+        <th>
+          Reservado
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        data-product-id="prod-1"
+      >
+        <td>
+          prod-1
+        </td>
+        <td>
+          Notebook Pro 15
+        </td>
+        <td
+          class="stock-available"
+        >
+          15
+        </td>
+        <td
+          class="stock-reserved"
+        >
+          0
+        </td>
+      </tr>
+      <tr
+        data-product-id="prod-2"
+      >
+        <td>
+          prod-2
+        </td>
+        <td>
+          Mouse Inalámbrico
+        </td>
+        <td
+          class="stock-available"
+        >
+          50
+        </td>
+        <td
+          class="stock-reserved"
+        >
+          2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
