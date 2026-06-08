@@ -1,5 +1,7 @@
 # inventory-web
 
+> **Repo de onboarding** — Este repositorio se utiliza como proyecto de práctica durante el proceso de incorporación de nuevos desarrolladores al equipo. No corresponde a un servicio productivo.
+
 Módulo web de inventario para operadores internos. Permite visualizar disponibilidad de productos y gestionar reservas de stock.
 
 ## Stack
